@@ -1,4 +1,4 @@
-//Jamaria - Sims
+//Jamaria - Sims - The Magican
 export const artists = [
   {
     id: 0,
